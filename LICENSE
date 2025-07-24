@@ -1,0 +1,81 @@
+MIT License
+
+Copyright (c) 2025 Lackadaisical Security
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Advanced Quantum Cryptography
+
+This software implements advanced quantum cryptographic algorithms and is subject to 
+additional considerations:
+
+1. **Advanced Quantum Security**: The advanced quantum cryptographic implementations 
+   include cutting-edge algorithms that are experimental and should be thoroughly 
+   tested before production use.
+
+2. **Multi-Party Quantum Cryptography**: This system implements advanced multi-party 
+   quantum cryptographic protocols including quantum secret sharing and quantum 
+   multi-signature schemes.
+
+3. **Quantum Machine Learning**: The system includes quantum machine learning 
+   components for cryptographic analysis and optimization.
+
+4. **Export Controls**: Advanced quantum cryptographic software may be subject to 
+   stricter export control regulations. Users are responsible for compliance with 
+   applicable laws.
+
+5. **Research Use**: This software is primarily intended for advanced research and 
+   educational purposes. Production use requires extensive security evaluation.
+
+6. **Quantum Hardware**: Advanced features may require specialized quantum hardware 
+   and should only be used by qualified personnel.
+
+---
+
+## Advanced Security Considerations
+
+1. **Quantum Supremacy**: This system is designed to leverage quantum supremacy 
+   for cryptographic operations where available.
+
+2. **Quantum Error Correction**: Implements advanced quantum error correction 
+   for long-term quantum cryptographic operations.
+
+3. **Quantum Entanglement**: Uses quantum entanglement for secure communication 
+   and cryptographic key distribution.
+
+4. **Quantum Teleportation**: Implements quantum teleportation protocols for 
+   secure information transfer.
+
+---
+
+## Third-Party Components
+
+This software may include third-party advanced quantum computing libraries, 
+quantum hardware drivers, and cryptographic components, each subject to their 
+own license terms. See the documentation for details on third-party components 
+and their respective licenses.
+
+---
+
+## Contributing
+
+By contributing to this project, you agree that your contributions will be 
+licensed under the same MIT License that covers the project.
